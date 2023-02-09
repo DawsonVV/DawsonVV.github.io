@@ -139,7 +139,7 @@ table{
     color: goldenrod;
 }
 
-@media (max-width: 750px) {
+@media screen and (max-width: 750px) {
     article{
         flex-direction: column;
     }
